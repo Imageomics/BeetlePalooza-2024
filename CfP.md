@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-The Imageomics Institute is hosting a 3.5-day workshop offering a unique opportunity to develop proof-of-concepts demonstrating how the application of computer vision techniques can transform biodiversity data collection. The workshop will leverage one of the nation’s premier monitoring networks, the US National Science Foundation’s National Ecological Observatory Network (NEON). The treasure trove of data products collected at NEON sites provides an opportunity to push multi-modal model development applied to computer vision in tackling this challenge. The event will bring together an interdisciplinary group around a shared interest of using AI/ML to extract scientific knowledge from image and video data, including ML researchers, ecologists, beetle systematists, software developers, and data engineers. Participants will work in small groups to collaboratively curate or develop FAIR data products, best practices, tools, and other products targeting the motivating challenge.
+The Imageomics Institute is hosting a 3.5-day workshop offering a unique opportunity to develop proof-of-concepts demonstrating how the application of computer vision techniques can transform biodiversity data collection. The workshop will leverage one of the nation’s premier monitoring networks, the US National Science Foundation’s National Ecological Observatory Network (NEON). The treasure trove of data products collected at NEON sites provides an opportunity to push multi-modal model development applied to computer vision in tackling this challenge. The event will bring together an interdisciplinary group around a shared interest of using AI/ML to extract scientific knowledge from imagery data, including ML researchers, ecologists, beetle systematists, software developers, and data engineers. Participants will work in small groups to collaboratively curate or develop FAIR data products, best practices, tools, and other products targeting the motivating challenge.
 
 The event will take place August 12-15 at The Ohio State University in Columbus, OH, USA. To apply to participate, please fill out the [BeetlePalooza 2024 Application for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfhzfOrq1o-6gqrN6UOgFREzXu4Y_S9IETUf0IycQ5f-m5s1Q/viewform) by the end of June 10, 2024. Funds to assist with travel expenses are available but limited, as is space. We expect to notify applicants about acceptance starting 10 days after the application due date.
 
@@ -41,11 +41,11 @@ We aim to bring together a diverse group of people that includes AI and ML resea
 In general, people encouraged to consider applying include (but are not limited to!) the following:
 
 - AI/ML experts and researchers, particularly those in computer vision (CV), interested in collaboratively advancing tools, infrastructure, and data products.
-Ecologists (and related domain scientists such as biodiversity and environmental scientists) who are interdisciplinary-minded and ideally have already used or are planning to use NEON data in their research, and/or have some familiarity with applying ML and computer vision for ecological research questions.
+- Ecologists (and related domain scientists such as biodiversity and environmental scientists) who are interdisciplinary-minded and ideally have already used or are planning to use NEON data in their research, and/or have some familiarity with applying ML and computer vision for ecological research questions.
 - Taxonomists or systematists with relevant expertise (such as Carabidae systematics and species identification) and familiarity with Big Data-related challenges.
-Software engineers or programmers with skills requisite for AI/ML (Python and applicable libraries, etc), data wrangling/management (SQL, Pandas, R, etc) who are interested in developing automated ML workflows, tools and infrastructure.
+- Software engineers or programmers with skills requisite for AI/ML (Python and applicable libraries, etc), data wrangling/management (SQL, Pandas, R, etc) who are interested in developing automated ML workflows, tools and infrastructure.
 - Data engineers with experience and expertise in creating FAIR data products suitable for AI/ML applications
-Graduate students and postdocs looking for an opportunity to develop their skills in interdisciplinary research at the intersection of AI/ML and domain science (ecology, biodiversity and environmental science).
+- Graduate students and postdocs looking for an opportunity to develop their skills in interdisciplinary research at the intersection of AI/ML and domain science (ecology, biodiversity and environmental science).
 - Advanced undergraduates in computer science (ML / CV), math, or data analytics with demonstrated interest in interdisciplinary research
 
 Everyone participating in the event must adhere to its [Code of Conduct](CODE_OF_CONDUCT.md).
@@ -61,4 +61,4 @@ The NFS’s [National Ecological Observatory Network](https://www.neonscience.or
 Hilmar Lapp (Duke University & Imageomics Institute)<br/>
 Michelle Ramirez (The Ohio State University & Imageomics Institute)<br/>
 Sydne Record (University of Maine)<br/>
-Eric Sokol (Battelle, National Ecological Observatory Network)
+Eric Sokol (National Ecological Observatory Network, Battelle)
