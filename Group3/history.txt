@@ -1,0 +1,21 @@
+pip install pybioclip
+
+18  bioclip --help
+   19  bioclip predict A000000089*
+   20  bioclip predict --help
+   21  bioclip predict --rank genus A000000089*
+   50  cat D05_TaxaList.txt |python names2list.py > D05_TaxaList.list.txt
+   54  classes=`cat taxonLists/D05_TaxaList.list.txt`
+   55  echo $classes 
+   57  bioclip predict --device cuda --cls "$classes" A000000089*
+   58  bioclip predict --device cuda --cls "$classes" --k 5 A000000089*
+   59  bioclip predict --device cuda --cls "$classes" --k 5 A000000089* > predsnosubsp.csv
+   60  bioclip predict --device cuda --cls "$classes" A000000089* > predsnosubsp.csv
+   77  cd Manually\ Segmented/
+   79  bioclip predict --device cuda --cls "$classes" A000000089* > predsnosubsp.csv
+   82  cd ../2\ Manual\ Segmented/
+   84  bioclip predict --device cuda --cls "$classes" A00000040* > predsnosubsp.csv
+   87  cd ../EWIC\ dorsal\ pinned/
+   89  bioclip predict --device cuda --k 5 EWIC_* 
+   90  wc -l ../D05_TaxaList.txt 
+   91  bioclip predict --device cuda --k 5 --rank genus EWIC_* 
